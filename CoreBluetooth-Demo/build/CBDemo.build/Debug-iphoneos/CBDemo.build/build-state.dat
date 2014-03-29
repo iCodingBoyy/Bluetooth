@@ -1,0 +1,339 @@
+TCBDemo
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/Info.plist CBDemo/CBDemo-Info.plist
+cCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/CBDemo.app/ResourceRules.plist
+cProcessPCH /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch.pth CBDemo/CBDemo-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/main.o /Users/macpocket1/Desktop/CBDemo/CBDemo/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/AppDelegate.o /Users/macpocket1/Desktop/CBDemo/CBDemo/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/ViewController.o /Users/macpocket1/Desktop/CBDemo/CBDemo/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/BlueToothMe.o /Users/macpocket1/Desktop/CBDemo/CBDemo/BlueToothMe.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo normal armv7
+cGenerateDSYMFile /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app.dSYM /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo
+cCopyStringsFile /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/en.lproj/InfoPlist.strings CBDemo/en.lproj/InfoPlist.strings
+cCompileXIB /Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/ViewController.xib
+cProcessProductPackaging "/Users/macpocket1/Library/MobileDevice/Provisioning Profiles/42BCF50C-CA6D-4F91-A0B8-C25CFE0D33B2.mobileprovision" /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/macpocket1/Library/MobileDevice/Provisioning Profiles/42BCF50C-CA6D-4F91-A0B8-C25CFE0D33B2.mobileprovision" /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/embedded.mobileprovision
+cTouch /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent
+cCodeSign /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004E7840290000000000000110
+t1316503593
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+c000000004E5C595800000000000001A7
+t1314675032
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+c000000004E5C595800000000000001E5
+t1314675032
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreBluetooth.framework/CoreBluetooth
+c000000004E78094700000000000148C0
+t1316489543
+s84160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F28700000000003AB0A0
+t1316156039
+s3846304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7808C7000000000078BE50
+t1316489415
+s7913040
+
+N/Users/macpocket1/Desktop/CBDemo/CBDemo/AppDelegate.m
+c000000004F2101DE0000000000000998
+t1327563230
+s2456
+
+N/Users/macpocket1/Desktop/CBDemo/CBDemo/BlueToothMe.m
+c000000004F2102D60000000000000192
+t1327563478
+s402
+
+N/Users/macpocket1/Desktop/CBDemo/CBDemo/CBDemo-Prefix.pch
+c000000004F2101DE000000000000013B
+t1327563230
+s315
+
+N/Users/macpocket1/Desktop/CBDemo/CBDemo/ViewController.m
+c000000004F2101DE00000000000004A3
+t1327563230
+s1187
+
+N/Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/InfoPlist.strings
+c000000004F2101DE000000000000002D
+t1327563230
+s45
+
+N/Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/ViewController.xib
+c000000004F2101DE000000000000146B
+t1327563230
+s5227
+
+N/Users/macpocket1/Desktop/CBDemo/CBDemo/main.m
+c000000004F2101DE0000000000000155
+t1327563230
+s341
+
+N/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/BlueToothMe.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/CBDemo.LinkFileList
+c000000004F2102D600000000000001C8
+t1327563478
+s456
+
+N/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app.dSYM
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/Info.plist
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/PkgInfo
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/ResourceRules.plist
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Users/macpocket1/Library/MobileDevice/Provisioning Profiles/42BCF50C-CA6D-4F91-A0B8-C25CFE0D33B2.mobileprovision
+c000000004EEF1D8D0000000000002DEC
+t1324293517
+s11756
+
+N/var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch.pth
+t2
+s0
+
+NCBDemo/CBDemo-Info.plist
+c000000004F2101DE00000000000004C0
+t1327563230
+s1216
+
+CBuild AST from /Users/macpocket1/Desktop/CBDemo/CBDemo/AppDelegate.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/CBDemo/CBDemo/BlueToothMe.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/CBDemo/CBDemo/ViewController.m
+r0
+
+CBuild AST from /Users/macpocket1/Desktop/CBDemo/CBDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies72a47b563ad1b441^c477aa563ad1b441^---0#1#0#--18"Check dependencies36"30F3B581-4275-40EE-8F63-CBF67297BE64-
+
+CCodeSign /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app
+s349256291.808828
+e349256297.732258
+r0
+xCodeSign
+x/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app
+o/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app: The operation was cancelled by the user.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"CodeSign build/Debug-iphoneos/CBDemo.appf032cf633ad1b441^0d6ebb693ad1b441^-157"/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app: The operation was cancelled by the user.Command /usr/bin/codesign failed with exit code 11(21%IDEActivityLogMessage2@49"Command /usr/bin/codesign failed with exit code 1-349256297#18446744073709551615#0#-2#--15"Code Sign Error--0#0#0#-19%DVTDocumentLocation3@81"file://localhost/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/0000000000000000^666"CodeSign build/Debug-iphoneos/CBDemo.app    cd /Users/macpocket1/Desktop/CBDemo    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign "iPhone Developer: Gemma Díaz (L4RTJS2NFB)" --resource-rules=/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/ResourceRules.plist --entitlements /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app36"94D32A8C-F61D-4315-8EC8-E903EA2E65DE-
+
+CCompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/AppDelegate.o /Users/macpocket1/Desktop/CBDemo/CBDemo/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349256282.549322
+e349256283.173640
+r1
+xCompileC
+xbuild/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/AppDelegate.o
+x/Users/macpocket1/Desktop/CBDemo/CBDemo/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/macpocket1/Desktop/CBDemo/CBDemo/AppDelegate.ma9c18c5a3ad1b441^c9742c5b3ad1b441^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/macpocket1/Desktop/CBDemo/CBDemo/AppDelegate.m0000000000000000^2363"CompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/AppDelegate.o CBDemo/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macpocket1/Desktop/CBDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-generated-files.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-own-target-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-project-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/include -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources/armv7 -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources -F/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch -MMD -MT dependencies -MF /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/AppDelegate.d -c /Users/macpocket1/Desktop/CBDemo/CBDemo/AppDelegate.m -o /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/AppDelegate.o36"C0378246-203A-4D6F-936A-ECEA55E53FCD-
+
+CCompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/BlueToothMe.o /Users/macpocket1/Desktop/CBDemo/CBDemo/BlueToothMe.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349256283.174846
+e349256283.225702
+r1
+xCompileC
+xbuild/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/BlueToothMe.o
+x/Users/macpocket1/Desktop/CBDemo/CBDemo/BlueToothMe.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/macpocket1/Desktop/CBDemo/CBDemo/BlueToothMe.m87e02c5b3ad1b441^e9d4395b3ad1b441^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/macpocket1/Desktop/CBDemo/CBDemo/BlueToothMe.m0000000000000000^2363"CompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/BlueToothMe.o CBDemo/BlueToothMe.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macpocket1/Desktop/CBDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-generated-files.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-own-target-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-project-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/include -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources/armv7 -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources -F/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch -MMD -MT dependencies -MF /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/BlueToothMe.d -c /Users/macpocket1/Desktop/CBDemo/CBDemo/BlueToothMe.m -o /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/BlueToothMe.o36"659CBCE4-3110-4E62-A97E-61942C3C34BA-
+
+CCompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/ViewController.o /Users/macpocket1/Desktop/CBDemo/CBDemo/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349256283.165053
+e349256283.255026
+r1
+xCompileC
+xbuild/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/ViewController.o
+x/Users/macpocket1/Desktop/CBDemo/CBDemo/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/macpocket1/Desktop/CBDemo/CBDemo/ViewController.me5642a5b3ad1b441^384b415b3ad1b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/macpocket1/Desktop/CBDemo/CBDemo/ViewController.m0000000000000000^2378"CompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/ViewController.o CBDemo/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macpocket1/Desktop/CBDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-generated-files.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-own-target-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-project-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/include -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources/armv7 -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources -F/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch -MMD -MT dependencies -MF /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/ViewController.d -c /Users/macpocket1/Desktop/CBDemo/CBDemo/ViewController.m -o /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/ViewController.o36"D2E49D32-5F0C-45C9-B6EE-DC3FAFE1FB08-
+
+CCompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/main.o /Users/macpocket1/Desktop/CBDemo/CBDemo/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349256282.549317
+e349256283.163802
+r1
+xCompileC
+xbuild/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/main.o
+x/Users/macpocket1/Desktop/CBDemo/CBDemo/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/macpocket1/Desktop/CBDemo/CBDemo/main.md3bf8c5a3ad1b441^faef295b3ad1b441^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Users/macpocket1/Desktop/CBDemo/CBDemo/main.m0000000000000000^2328"CompileC build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/main.o CBDemo/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macpocket1/Desktop/CBDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-generated-files.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-own-target-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-project-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/include -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources/armv7 -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources -F/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos -include /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch -MMD -MT dependencies -MF /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/main.d -c /Users/macpocket1/Desktop/CBDemo/CBDemo/main.m -o /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/main.o36"956023A4-1BC3-45E4-A6D6-82AB4E2E952F-
+
+CCompileXIB /Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/ViewController.xib
+s349256284.870922
+e349256291.554822
+r1
+xCompileXIB
+x/Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/ViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compiling /Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/ViewController.xibe10bdf5c3ad1b441^d90a8e633ad1b441^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/ViewController.xib0000000000000000^660"CompileXIB CBDemo/en.lproj/ViewController.xib    cd /Users/macpocket1/Desktop/CBDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/en.lproj/ViewController.nib /Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/ViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"DECEA117-7F04-4E8A-8C59-BB0011471DD2-
+
+CCopyStringsFile /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/en.lproj/InfoPlist.strings CBDemo/en.lproj/InfoPlist.strings
+s349256284.870647
+e349256284.926094
+r1
+xCopyStringsFile
+x/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/en.lproj/InfoPlist.strings
+xCBDemo/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy CBDemo/en.lproj/InfoPlist.stringsb9fdde5c3ad1b441^4416ed5c3ad1b441^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/macpocket1/Desktop/CBDemo/CBDemo/en.lproj/InfoPlist.strings0000000000000000^474"CopyStringsFile build/Debug-iphoneos/CBDemo.app/en.lproj/InfoPlist.strings CBDemo/en.lproj/InfoPlist.strings    cd /Users/macpocket1/Desktop/CBDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/en.lproj -- CBDemo/en.lproj/InfoPlist.strings36"36A7AA95-96AF-4204-8601-A105CB6F3AFC-
+
+CCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/CBDemo.app/ResourceRules.plist
+s349256278.702736
+e349256278.760928
+r1
+xCpResource
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/CBDemo.app/ResourceRules.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphoneos/CBDemo.app/ResourceRules.plistd9b3b7563ad1b441^618ac2563ad1b441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/ResourceRules.plist00f80424dcffdf42^584"CpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/CBDemo.app/ResourceRules.plist    cd /Users/macpocket1/Desktop/CBDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app36"C981D0FB-6BBD-423F-A3C2-0ACE487F24F9-
+
+CGenerateDSYMFile /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app.dSYM /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo
+s349256284.519793
+e349256284.867817
+r1
+xGenerateDSYMFile
+x/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app.dSYM
+x/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Generating /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app.dSYM3d27855c3ad1b441^b22ade5c3ad1b441^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app.dSYM00f80424dcffdf42^434"GenerateDSYMFile build/Debug-iphoneos/CBDemo.app.dSYM build/Debug-iphoneos/CBDemo.app/CBDemo    cd /Users/macpocket1/Desktop/CBDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo -o /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app.dSYM36"2D26EA68-49A3-418A-AE9C-F6CFFBE7C9D1-
+
+CLd /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo normal armv7
+s349256283.256554
+e349256284.518560
+r1
+xLd
+x/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo
+xnormal
+xarmv7
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Link /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo04cb415b3ad1b441^1ac3845c3ad1b441^---0#0#0#--876"Ld build/Debug-iphoneos/CBDemo.app/CBDemo normal armv7    cd /Users/macpocket1/Desktop/CBDemo    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos -F/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos -filelist /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/Objects-normal/armv7/CBDemo.LinkFileList -dead_strip -fobjc-arc -miphoneos-version-min=5.0 -framework CoreBluetooth -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/CBDemo36"CBE298D1-45EA-4912-A550-363897F2DAFA-
+
+CProcessInfoPlistFile /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/Info.plist CBDemo/CBDemo-Info.plist
+s349256278.702734
+e349256278.760556
+r1
+xProcessInfoPlistFile
+x/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/Info.plist
+xCBDemo/CBDemo-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Process CBDemo/CBDemo-Info.plist53b3b7563ad1b441^65c3c2563ad1b441^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/macpocket1/Desktop/CBDemo/CBDemo/CBDemo-Info.plist0000000000000000^630"ProcessInfoPlistFile build/Debug-iphoneos/CBDemo.app/Info.plist CBDemo/CBDemo-Info.plist    cd /Users/macpocket1/Desktop/CBDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CBDemo/CBDemo-Info.plist -genpkginfo /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/ResourceRules.plist -o /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/Info.plist36"C43AA97F-0D29-4876-8B40-F0A7016E2F8D-
+
+CProcessPCH /Users/macpocket1/Library/Developer/Xcode/DerivedData/CBDemo-gdpxzkxdrgknqvginynmajlsfqzk/Index/PrecompiledHeaders/CBDemo-Prefix-elnycudtmtuknmgmasrkykasiwel_ast/CBDemo-Prefix.pch.pth CBDemo/CBDemo-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch.pth CBDemo/CBDemo-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s349256278.765541
+e349256282.547630
+r1
+xProcessPCH
+x/var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch.pth
+xCBDemo/CBDemo-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile CBDemo/CBDemo-Prefix.pch0b43c4563ad1b441^66328c5a3ad1b441^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/macpocket1/Desktop/CBDemo/CBDemo/CBDemo-Prefix.pch0000000000000000^2387"ProcessPCH /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch.pth CBDemo/CBDemo-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macpocket1/Desktop/CBDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-generated-files.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-own-target-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-all-target-headers.hmap -iquote /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo-project-headers.hmap -I/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/include -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources/armv7 -I/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/DerivedSources -F/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos -c /Users/macpocket1/Desktop/CBDemo/CBDemo/CBDemo-Prefix.pch -o /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/st/strMJA7BGFCR09fb9peT7k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CBDemo-Prefix-dgpdpibqqdnrlwbokclhjjgugqkl/CBDemo-Prefix.pch.d36"07697BD2-4DCD-4D26-80CC-E9A5479EE315-
+
+CProcessProductPackaging "/Users/macpocket1/Library/MobileDevice/Provisioning Profiles/42BCF50C-CA6D-4F91-A0B8-C25CFE0D33B2.mobileprovision" /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/embedded.mobileprovision
+s349256291.638892
+e349256291.641914
+r1
+xProcessProductPackaging
+x/Users/macpocket1/Library/MobileDevice/Provisioning Profiles/42BCF50C-CA6D-4F91-A0B8-C25CFE0D33B2.mobileprovision
+x/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/embedded.mobileprovision
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection196"ProcessProductPackaging "/Users/macpocket1/Library/MobileDevice/Provisioning Profiles/42BCF50C-CA6D-4F91-A0B8-C25CFE0D33B2.mobileprovision" build/Debug-iphoneos/CBDemo.app/embedded.mobileprovisione0a2a3633ad1b441^f65ea4633ad1b441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/embedded.mobileprovision0000000000000000^606"ProcessProductPackaging "/Users/macpocket1/Library/MobileDevice/Provisioning Profiles/42BCF50C-CA6D-4F91-A0B8-C25CFE0D33B2.mobileprovision" build/Debug-iphoneos/CBDemo.app/embedded.mobileprovision    cd /Users/macpocket1/Desktop/CBDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/macpocket1/Library/MobileDevice/Provisioning Profiles/42BCF50C-CA6D-4F91-A0B8-C25CFE0D33B2.mobileprovision" -o /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app/embedded.mobileprovision36"D01FBDE8-8213-4CC2-9029-63553EBED3F5-
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent
+s349256291.759143
+e349256291.806031
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+x/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent9b71c2633ad1b441^255ace633ad1b441^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent00f80424dcffdf42^584"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent    cd /Users/macpocket1/Desktop/CBDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/macpocket1/Desktop/CBDemo/build/CBDemo.build/Debug-iphoneos/CBDemo.build/CBDemo.xcent36"7A260230-7A18-4692-AFBF-B03171F597AB-
+
+CTouch /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app
+s349256291.644871
+e349256291.756491
+r1
+xTouch
+x/Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Touch /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.appc427a5633ad1b441^e2abc1633ad1b441^---0#0#0#--289"Touch build/Debug-iphoneos/CBDemo.app    cd /Users/macpocket1/Desktop/CBDemo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macpocket1/Desktop/CBDemo/build/Debug-iphoneos/CBDemo.app36"A870CACD-1079-484D-941B-32DCBA0ED02B-
+
